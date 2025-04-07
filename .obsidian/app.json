@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "asserts",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "livePreview": true,
+  "spellcheck": false,
+  "autoConvertHtml": false,
+  "foldIndent": false
+}

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "f10fb77ede486474",
+    "type": "split",
+    "children": [
+      {
+        "id": "2093f08dc93d49b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c04403ebd593655",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5043fd00f2c82d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c876f9fa025bb97c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f20392327768eec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "08f84c9a5c0fd479",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GIT",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "375caff8d1fd20b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f36185b78f91ab2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb66796d1e44d6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73c5fb65497298c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "GIT 的反向链接列表"
+            }
+          },
+          {
+            "id": "2d3b1690fb2b237c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "GIT 的出链列表"
+            }
+          },
+          {
+            "id": "52c5f60dfcee7568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3dcd6a2ec0d03e1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "GIT 的大纲"
+            }
+          },
+          {
+            "id": "781206ecbdfd1c38",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 669.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false,
+      "khoj:Khoj": false
+    }
+  },
+  "active": "781206ecbdfd1c38",
+  "lastOpenFiles": [
+    "2 第二大脑/2 能力/工具系统/加密/AES.md",
+    "2 第二大脑/2 能力/工具系统/GIT.md",
+    "2 第二大脑/2 能力/工具系统/加密/AES使用.md",
+    "2 第二大脑/2 能力/工具系统/加密",
+    "2 第二大脑/1 知识/中间件/ElasticSeacrh.md",
+    "2 第二大脑/1 知识/Java技术栈/动态代理.md",
+    "assets/image-20240217170637-7etisch.png.md",
+    "2 第二大脑/1 知识/Java技术栈/Servlet.md",
+    "2 第二大脑/1 知识/Java技术栈/Stream/第二章 为Stream增加中间操作.md",
+    "2 第二大脑/1 知识/Java技术栈/Spring/源码级/容器初始化.md",
+    "2 第二大脑/1 知识/Java技术栈/Spring/底层原理.md",
+    "2 第二大脑/1 知识/Java技术栈/Spring/源码级/Bean.md",
+    "2 第二大脑/1 知识/Java技术栈/Spring/源码级/循环依赖.md",
+    "2 第二大脑/1 知识/Java技术栈/Spring/源码级/事务.md",
+    "2 第二大脑/1 知识/Java技术栈/Spring/源码级",
+    "2 第二大脑/1 知识/Java技术栈/Maven/编译与发布.md",
+    "2 第二大脑/1 知识/Java技术栈/Guava/ImmutableMap.md",
+    "2 第二大脑/1 知识/Java技术栈/泛型/高阶.md",
+    "2 第二大脑/1 知识/Java技术栈/泛型/范型-官方文档.md",
+    "2 第二大脑/1 知识/Java技术栈/泛型/初阶.md",
+    "2 第二大脑/1 知识/Java技术栈/并发/2、ListenableFuture.md",
+    "2 第二大脑/1 知识/Java技术栈/并发/1、Future.md",
+    "2 第二大脑/1 知识/中间件/Zookeeper.md",
+    "2 第二大脑/1 知识/中间件/Dubbo/配置.md",
+    "2 第二大脑/1 知识/前端技术栈/React/描述UI.md",
+    "2 第二大脑/1 知识/前端技术栈/Javascript-权威指南学习/第一章.md",
+    "2 第二大脑/1 知识/读书会/凤凰架构.md",
+    "assets",
+    "1 一切皆项目/3 Booking/下单/CheckUserAuthInfoBolt.md",
+    "asserts/image-20241231141218-wj5flu2.png",
+    "asserts/image-20241231141109-tdhfq37.png",
+    "asserts/image-20241231141142-e4yozj5.png",
+    "asserts/image-20241231141058-yld2hpz.png",
+    "asserts/image-20241222131934-lhgt5a4.png",
+    "asserts/image-20241222131836-b5o1i64.png",
+    "asserts/image-20241124004035-yww53gc.png",
+    "asserts/image-20241124003333-ahv9bxt.png",
+    "asserts/image-20241124003405-rvwg5gb.png",
+    "asserts/image-20241124003557-ki2yce8.png",
+    "4 复盘/思考&规划/assets",
+    "4 复盘/思考&规划",
+    "2 第二大脑/1 知识/读书会/凤凰架构",
+    "2 第二大脑/1 知识/读书会",
+    "2 第二大脑/3 归档/汇报/assets",
+    "2 第二大脑/3 归档/汇报/2024.8.26 周报",
+    "2 第二大脑/3 归档/汇报/2024.7.12 述职",
+    "未命名.canvas"
+  ]
+}
